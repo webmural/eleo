@@ -1,0 +1,14 @@
+::selection {
+  background: indigo;
+  color: gold;
+}
+
+:root {
+  color: indigo;
+  background: orangered;
+  background-image: radial-gradient(orangered, hotpink);
+}
+
+:any-link {
+  color: inherit;
+}
